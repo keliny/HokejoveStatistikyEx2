@@ -1,0 +1,29 @@
+﻿<hockey>
+  <rounds>
+    <round>1</round>
+    <range>
+      <round>3</round>
+      <round>4</round>
+    </range>
+  </rounds>
+  <statistics>
+    <most-points num="5" type="all" />
+    <most-points num="5" type="away" />
+    <most-points num="5" type="home" />
+    <least-points num="5" type="all" />
+    <least-points num="5" type="away" />
+    <least-points num="5" type="home" />
+    <best-attack num="5" type="all" />
+    <best-attack num="5" type="away" />
+    <best-attack num="5" type="home" />
+    <worst-attack num="5" type="all" />
+    <worst-attack num="5" type="away" />
+    <worst-attack num="5" type="home" />
+    <best-defense num="5" type="all" />
+    <best-defense num="5" type="away" />
+    <best-defense num="5" type="home" />
+    <worst-defense num="5" type="all" />
+    <worst-defense num="5" type="away" />
+    <worst-defense num="5" type="home" />
+  </statistics>
+</hockey>

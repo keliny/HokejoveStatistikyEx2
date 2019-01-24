@@ -1,0 +1,16 @@
+﻿<hockey>
+  <rounds>
+    <range>
+      <round>1</round>
+      <round>3</round>
+    </range>
+  </rounds>
+  <statistics>
+    <most-points num="3" type="all" />
+    <least-points num="3" type="all" />
+    <best-attack num="3" type="all" />
+    <worst-attack num="3" type="home" />
+    <best-defense num="2" type="home" />
+    <worst-defense num="4" type="away" />
+  </statistics>
+</hockey>
